@@ -1,5 +1,5 @@
 {
-    "name": "easy-js-jq",
+    "name": "js-utils-jq",
     "author": {
         "name": "Mike Lehan",
         "url": "https://github.com/M1ke"
@@ -11,7 +11,7 @@
         }
     ],
     "dependencies": {
-        "easy-js": "git@github.com:m1ke/easy-js-utils.git",
+        "easy-js": "git@github.com:m1ke/js-utils.git",
         "jquery": "git@github.com:m1ke/jquery-bower.git"
     },
     "description": "Utilities using or adding to jquery"
