@@ -1,4 +1,4 @@
-/*@include ../easy-js/serialize.js */
+/*@include ../js-utils/serialize.js */
 
 $.fn.serializeObject=function(){
 	return this.serializeArray().query2DToObject();
