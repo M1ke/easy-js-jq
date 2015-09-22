@@ -11,4 +11,4 @@
 	};
 
 	$.fn.extend(cls);
-})(window.jQuery);
+})(jQuery);

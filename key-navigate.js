@@ -1,4 +1,4 @@
-keyNavigate=function(key,$list){
+var keyNavigate = function(key, $list){
 	if (key==13){
 	    $list.find('.sel').each(function(){
 	        var $link=$(this).find('a');
