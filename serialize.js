@@ -1,4 +1,4 @@
-/*@include ../js-utils/query-to-object.js.js */
+/*@include ../js-utils/query-to-object.js */
 
 ;(function($){
 	$.fn.serializeObject=function(){
