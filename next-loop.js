@@ -1,3 +1,4 @@
+;(function($){
 	$.fn.nextLoop=function(){
 		var $next=this.next();
 		if ($next.length>0){
