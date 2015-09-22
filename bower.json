@@ -11,7 +11,7 @@
         }
     ],
     "dependencies": {
-        "js-utils": "https://github.com/m1ke/js-utils.git#dev-x1.0",
+        "js-utils": "https://github.com/m1ke/js-utils.git#x1.0",
         "jquery": "https://github.com/m1ke/jquery-bower.git"
     },
     "description": "Utilities using or adding to jquery"
