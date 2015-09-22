@@ -1,4 +1,4 @@
-/*@include ../js-utils/append-query.js */
+/*@include ../js-utils/string-append-query.js */
 
 ;(function($){
 	$.fn.appendQuery = function(append){
